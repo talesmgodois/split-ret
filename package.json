@@ -1,0 +1,13 @@
+{
+  "name": "split-ret",
+  "version": "1.0.0",
+  "description": "",
+  "main": "./bin/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": "./bin/index.js",
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
